@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahithi</h1>
 <h3 align="center">Software Developer | Competitive Programmer | Always Learning, Always Building</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DKarthikeya31&label=Profile%20Views&color=0e75b6&style=flat" alt="DKarthikeya31" />
-</p>
-
 ---
 
 ### 📔 I'm currently learning
