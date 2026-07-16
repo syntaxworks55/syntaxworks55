@@ -4,7 +4,7 @@
 ---
 
 ### 📔 I'm currently learning
-Full Stack Development · AI/ML · Quantitative Finance · Competitive Programming
+Full Stack Development · AI/ML · Competitive Programming
 
 ### 🛣️ How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DKarthikeya31/)
