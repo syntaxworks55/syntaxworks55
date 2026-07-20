@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahithi Here</h1>
+<h1 align="center">Hi 👋, I'm Sahithi Her</h1>
 <h3 align="center">Software Developer | Competitive Programmer | Always Learning, Always Building</h3>
 
 ---
