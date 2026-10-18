@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahithi Her</h1>
-<h3 align="center">Software Developer | Competitive Programmer | Always Learning, Always Building</h3>
+<h3 align="center">AI Engineer | Competitive Programmer | Always Learning, Always Building</h3>
 
 ---
 
