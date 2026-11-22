@@ -1,4 +1,4 @@
-<h1 align="center">Sahithi</h1>
+<h1 align="center">Sahi</h1>
 <h3 align="center">AI Engineer | Competitive Programmer | Always Learning, Always Building</h3>
 
 ---
