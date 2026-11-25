@@ -1,5 +1,5 @@
 <h1 align="center">Sahithi</h1>
-<h3 align="center">AI Engineer | Competitive Programmer | Always Learning, Always Building</h3>
+<h3 align="center">AI Engineer | Competitive Programmer |  Learning, Always Building</h3>
 
 ---
 
